@@ -11,7 +11,7 @@
 
 **Your Ultimate Book Management & Reading Community Platform**
 
-[🚀 Live Demo](https://your-bookclub.netlify.app) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/yourusername/bookclub/issues) • [✨ Request Feature](https://github.com/yourusername/bookclub/issues)
+[🚀 Live Demo](https://your-bookclub.netlify.app) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/ZahidG0/bookclub/issues) • [✨ Request Feature](https://github.com/ZahidG0/bookclub/issues)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bookclub.git
+git clone https://github.com/ZahidG0/bookclub.git
 cd bookclub
 
 # Navigate to client directory
@@ -174,13 +174,6 @@ BookClub/
 - **First Contentful Paint**: < 1.5s
 - **Time to Interactive**: < 3s
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
 
 ### Development Guidelines
 - Follow React best practices
@@ -195,10 +188,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Zahid G0**
+- GitHub: [ZahidG0](https://github.com/ZahidG0)
+- LinkedIn: [Md-Zahid-Hasan](https://linkedin.com/in/md-zahid-hasan-851a1928b)
+- Email: zhjoy15@example.com
 
 ## 🙏 Acknowledgments
 
